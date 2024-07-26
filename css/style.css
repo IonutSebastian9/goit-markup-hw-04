@@ -80,8 +80,6 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-right: 76px;
-  position: relative;
-  color: #404bbf;
 }
 .logo-span {
   color: var(--navy-blue-text);
@@ -97,6 +95,8 @@ body {
   display: flex;
   align-items: center;
   padding: 24px 0;
+  position: relative;
+  color: #404bbf;
 }
 .header-list {
   display: flex;
