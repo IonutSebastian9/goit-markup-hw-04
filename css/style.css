@@ -211,6 +211,16 @@ body {
 .second-section-list-items {
   flex-basis: calc((100% - 3 * 24px) / 4);
 }
+.our-features-icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  background-color: #f4f4fd;
+  border-radius: 4px;
+  border: 1px solid #8e8f99;
+  margin-bottom: 8px;
+}
 .features-titles {
   color: var(--navy-blue-text);
   font-weight: 500;
