@@ -392,8 +392,11 @@ body {
   margin-bottom: 16px;
 }
 .footer-container {
-  margin-right: 120px;
   display: flex;
+  align-items: baseline;
+}
+.footer-logo-paragraph {
+  margin-right: 120px;
 }
 .footer-logo {
   color: var(--cloud-color);
